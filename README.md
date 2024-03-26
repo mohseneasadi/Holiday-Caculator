@@ -1,6 +1,6 @@
 # holiday caculator 
 
-holiday caculator is a Python code which caculate the user’s total holiday cost, 
+holiday calculator is a Python code which calculate the user’s total holiday cost, 
 which includes the plane cost, hotel cost, and car rental cost. 
 
 # Installation
